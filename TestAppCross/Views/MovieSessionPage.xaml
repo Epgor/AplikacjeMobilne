@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:TestAppCross.ViewModels" 
+             xmlns:model="clr-namespace:TestAppCross.Models"
+             x:Class="TestAppCross.Views.MovieSessionPage"
+             Title="{Binding Name}"
+             x:Name="BrowseMovieSessionPage">
+    <StackLayout HorizontalOptions="CenterAndExpand" BackgroundColor="#3F51B5" >
+        <Label Text="{Binding Id}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding OccupiedSeats}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding OccupiedPremiumSeats}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding StartDateTime}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding Genre}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding Length}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding TicketPrice}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Label Text="{Binding PremiumTicketPrice}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+        <Image Source="{Binding WebImage}" HeightRequest="300" WidthRequest="300"></Image>
+        <Label Text="{Binding Name}" FontSize="Medium" HorizontalOptions="CenterAndExpand" TextColor="AntiqueWhite"/>
+    </StackLayout>
+</ContentPage>

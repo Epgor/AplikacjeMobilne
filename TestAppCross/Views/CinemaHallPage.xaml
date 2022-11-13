@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:TestAppCross.ViewModels" 
+             xmlns:model="clr-namespace:TestAppCross.Models"
+             x:Class="TestAppCross.Views.CinemaHallPage"
+             Title="{Binding Name}"
+             x:Name="BrowseCinemaHallPage">
+    <StackLayout Background="LightGray" HorizontalOptions="CenterAndExpand">
+
+        <Label Text="Date:" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+        <Label Text="{Binding Seats}" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+        <Label Text="{Binding PremiumSeats}" FontSize="Medium" HorizontalOptions="Center"/>
+        <Label Text="{Binding IsOpen}" FontSize="Medium" HorizontalOptions="Center"/>
+        <Label Text="Dostępne Filmy: " 
+                            LineBreakMode="NoWrap" 
+                            Style="{DynamicResource ListItemTextStyle}" 
+                            FontSize="22" HorizontalOptions="Center"/>
+        <RefreshView x:DataType="local:CinemaHallViewModel" IsRefreshing="{Binding IsBusy, Mode=TwoWay}" 
+                     VerticalOptions="Center" HorizontalOptions="Center">
+            <CollectionView x:Name="HallsListView"
+                    ItemsSource="{Binding MovieSessions}"
+                    SelectionMode="None"
+                    BackgroundColor="Aquamarine" VerticalOptions="Center" HorizontalOptions="Center">
+                <CollectionView.ItemTemplate VerticalOptions="Center">
+                    <DataTemplate>
+                        <StackLayout Padding="10" x:DataType="model:MovieSession" VerticalOptions="Center" HorizontalOptions="Center">
+                            <Label Text="{Binding MoviePlayed.Name}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16"
+                                VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer 
+                                    NumberOfTapsRequired="1"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:CinemaHallViewModel}}, Path=ItemTapped}"		
+                                    CommandParameter="{Binding .}">
+                                </TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </StackLayout>
+</ContentPage>

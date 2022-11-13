@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:TestAppCross.ViewModels" 
+             xmlns:model="clr-namespace:TestAppCross.Models"
+             x:Class="TestAppCross.Views.ItemDetailPage"
+             Title="{Binding Id}"
+             x:Name="BrowseItemDetailPage">
+
+    <StackLayout Spacing="20" Padding="15" BackgroundColor="Gray">
+        
+        <Label Text="Data:" FontSize="Medium" BackgroundColor="AliceBlue"/>
+        <Label Text="{Binding Date}" FontSize="20" BackgroundColor="AliceBlue"/>
+        <Label Text="{Binding IsOpen}" FontSize="Small" BackgroundColor="AliceBlue"/>
+        <Label Text="{Binding IsExtra}" FontSize="Small" BackgroundColor="AliceBlue"/>
+        <Label Text="Dostępne Sale: " 
+                            LineBreakMode="NoWrap" 
+                            Style="{DynamicResource ListItemTextStyle}" 
+                            FontSize="20" 
+               BackgroundColor="Aqua"/>
+        <RefreshView x:DataType="local:ItemDetailViewModel" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+            <CollectionView x:Name="HallsListView"
+                    ItemsSource="{Binding CinemaHalls}"
+                    SelectionMode="None"
+                    BackgroundColor="DarkKhaki">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Padding="10" x:DataType="model:CinemaHall">
+                            <Label Text="{Binding Name}" 
+                                LineBreakMode="NoWrap" 
+                                Style="{DynamicResource ListItemTextStyle}" 
+                                FontSize="16" 
+                                   BackgroundColor="BurlyWood"
+                                   />
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer 
+                                    NumberOfTapsRequired="1"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:ItemDetailViewModel}}, Path=ItemTapped}"		
+                                    CommandParameter="{Binding .}">
+                                </TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </RefreshView>
+    </StackLayout>
+</ContentPage>

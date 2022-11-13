@@ -1,0 +1,4245 @@
+{
+  "Name": "Super Kino",
+  "ScreeningDays": [
+    {
+      "Id": "c99cf049-f63f-4a6d-a8a6-694d8b79a6c1",
+      "Date": "2022-12-01T00:00:00+01:00",
+      "IsOpen": true,
+      "IsExtraPaid": true,
+      "CinemaHalls": [
+        {
+          "Id": "5d07222e-f8f3-40fb-ad28-9672445f45e4",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "10d0109a-e34e-4d71-84b0-520a5966becb",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c1b8ebd3-daad-48cc-b67e-d1c1df15129b",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "650a896b-7485-4c40-ac0f-1f41a30a5239",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "5907d286-5ebd-422d-8771-9d5de1eaba16",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "cf611ba9-de04-4756-b6c3-07268d74bb27",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c07f2f32-7a32-4864-ad1d-cd774f3dda16",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "046fd50f-4600-4c89-8c57-51c1afaa30d2",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c81ac0ad-7461-41d1-8974-dd4c923d384a",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "fc9b67d7-744a-40d2-9516-49e990157669",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "6504faa5-2b97-4319-bace-978afeee362e",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "bc32d356-bf9e-46ef-9ba3-22872ff5ea8f",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "e0e9160c-1d02-4c5b-9539-97fe2d25f279",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "42c2c4d7-d6d2-4fcc-8a8d-1063c2b902e5",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "18f8ee40-b0e9-4f9a-806b-1bb401d30632",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2b0cc8e9-c0f5-483d-9ce5-c3303ba838ef",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "3e97c6db-df23-45fc-b883-ac211dc67f50",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "bb207e5a-531e-4124-8461-12233ac4b5aa",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5605932c-64de-4b49-8af1-56298e8a4133",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "59242bf1-1dce-4876-8cb1-55ced1ee3bf1",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "91e0e95c-fa86-4832-a260-452f00507fba",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3ee74ebf-ab1e-4641-88ed-7106e1ccd907",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "3aa75c4c-f327-4670-b9c1-98a7af43fda4",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "c69a6a0b-6862-4d00-a0b7-8a403dfcc0ac",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7bc38975-3dfc-402e-9a42-c0fb4881d657",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2123b2f0-bdc2-4637-9a73-ef7a4c49fbc9",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "252871b3-b8f0-4c93-b247-34aa8b7254d9",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ecfbbe07-8e30-4965-a9bd-43cdd010138d",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "526451ab-8266-450c-8175-ad05bce910e9",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "28c64717-94a3-4d5b-8149-af6d471f52e7",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "1128acd0-80e7-4627-8497-708910e7cc0c",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f63c169e-50e4-4212-909b-9b8ffc8d0e90",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "21ce9977-ba2d-4652-8330-32d9435d892a",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "8f8cac3f-ae3d-476b-959d-6989811b5280",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "c98f423c-bb3b-448f-b6c0-80f8c16508b9",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "87369204-223b-4d2a-a102-17b2e39ca8bd",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "140da855-6f0c-4b49-9591-29e54f9d102f",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "067ef7f9-17ed-4b4d-89a6-c51830e20156",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "61344ebb-3e22-4162-8ab6-7cb6ea94060d",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "99582dc3-fd88-4da5-9851-c156ce230850",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "6b06bbaa-a283-4c43-a509-7a928f803e20",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7983a7f4-7573-4622-8d2d-a30da4c32ff8",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5f8285c7-2b06-403b-822f-c41820c876c0",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2c313269-9cbc-46ad-a84c-35836f92fea1",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "48c1609f-c365-41b2-a713-717e233ba409",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "7f24f51a-3323-41c2-a001-4b7687f92885",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "bac56eeb-4787-4903-8ab5-0ea932ab46a9",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "68da6e39-3123-42fc-833f-a9e973461a2f",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c8422fa6-7eef-4208-ba1c-46d2086b344a",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9ff9f571-4296-475e-9676-ac73c0bf08df",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "0539b979-87ad-47ee-ab76-17e2c7e6c05f",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f3565ce7-de4a-4393-b1a4-d6e159d3267c",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "be5e1764-56f4-49ba-9bd0-58d5fecb53a8",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e00bc9cb-1f99-4e53-b60c-0896d01d5c8f",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "f61af2ca-01c6-4f96-aa6a-d783b2557850",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "65605a41-e7d2-4a1f-81ba-39288dee0c2f",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "24c9cce9-6588-4bdd-85f8-b24eb9e19306",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e1a7471c-a25f-4e19-8524-eff9181c62a7",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0bb33653-2bba-49e9-ab3d-1eb5ce36669f",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "8dc70ed7-f8c5-419f-becc-7435345ad75f",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b3733b72-9418-4b2c-82db-bfff36aab8fa",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "4eb3837e-1033-435b-bebe-88ef95c4f012",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "268a4c72-f913-411b-9ab5-ba4272d52fdb",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2a03afb0-1084-45c6-9631-7e0c79c83adc",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "16dbf427-39ed-4c45-bbfc-e42a1705e7c6",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3905b2a1-c7c8-4f4b-83f0-3363245891da",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "4b262316-5e88-4996-8db8-ce2acd6886e3",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "66f832c0-9ccc-4057-8344-2f79e93edcb1",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "acc38db6-5773-43d9-9373-6e5ad0dad3d5",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "df60e7df-36bd-4afd-a57a-333cbfc317c5",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "d63e53ac-962d-4fe6-aae4-e69e8f5b2db4",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b76e9b08-b671-422f-9aa6-2543975851e4",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "f1cdce0a-b897-4f1a-8328-fd4cf99e8483",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "61130d81-3b09-42d7-bd0b-ad1a1e1792c9",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "8f68228c-4129-48a9-b80f-bb4806b00b70",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "acee359c-9368-4a02-b7fd-9ce3ec65cc58",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e7efd44f-b5db-4897-9205-ae7ea1d2e05e",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "a4413aef-8120-429b-a9d2-85475d2836e1",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "70cf829f-4b13-4b0c-9b86-89201415043d",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e3a72a95-5be6-4d21-b441-2b3002447215",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "c81f8b3c-c012-43ee-9550-e0b8f44de504",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "08e99793-79dd-4aa7-9312-85fb8dc3a3c4",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d687f77b-c9fe-46ad-96b7-c7fa8b9018a3",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "08bb70b4-b808-48b8-93c4-caaee54ab63e",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "55827dd3-d669-4414-ada2-823b8404f09d",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e26381c9-0923-4a17-b178-ae7a6b9e849a",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0ed8e1f3-55d5-4370-8e82-3533377d8585",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "84f73367-ba83-4627-8f24-10f413af3293",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "ed05c5e8-de46-4761-a587-5c4d0e28a09f",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "09a05f26-989d-4742-b6b5-1b16540165b9",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "abd6d142-39e4-449c-a27e-b60bbbbfee6c",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "fad9f33b-3db3-437d-9b8d-49e73ef81765",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "572f1f2d-c28d-4fb1-b623-8af9ff37e85b",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "fda72c20-96cd-4f06-96cf-d2e7673ad4b0",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "782be5cb-c10e-4e88-b855-d780c1c4a0e0",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "3ac9cde8-c8ea-4bb2-9c0f-e843109036a9",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7a51c5dd-4072-4a5c-836c-464b519c240d",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "55d6af00-991e-4442-91c3-82066cfea6ce",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "07b494f3-0a0c-4b9e-919b-64f7c7cf1aec",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "0975d043-8348-4ba2-b33b-d9ed755ef5ee",
+          "Name": "Handcrafted Concrete Gloves",
+          "Seats": 159,
+          "PremiumSeats": 4,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "824d235f-a186-4e4c-a797-9ddb621f8eb5",
+              "OccupiedSeats": 105,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "18d4db8e-6422-4bfd-98f9-190f817186e6",
+                "Name": "Feest - Grimes",
+                "Genre": "Latin",
+                "Length": "02:07:10",
+                "TicketPrice": 19.4,
+                "PremiumTicketPrice": 24.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "3188c3bc-b253-4e42-8551-36b2507fb7b9",
+              "OccupiedSeats": 30,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "d8c58006-90d4-408b-8d57-cd61cfe63e42",
+                "Name": "Legros Group",
+                "Genre": "Non Music",
+                "Length": "01:11:27",
+                "TicketPrice": 42.6,
+                "PremiumTicketPrice": 53.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "53786100-39c2-4d5a-8ccf-0f7c851fad1e",
+              "OccupiedSeats": 112,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-12-01T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3c8a6e0e-a79b-4ea7-a2c7-1a5481db226d",
+                "Name": "Schuster, Pouros and Conn",
+                "Genre": "Stage And Screen",
+                "Length": "02:12:24",
+                "TicketPrice": 65.8,
+                "PremiumTicketPrice": 82.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "18ada3aa-c5d7-4832-bb43-0e323f481635",
+              "OccupiedSeats": 37,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-12-01T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "b93a2342-7c81-439a-9fe0-84ee2a462c0f",
+                "Name": "Buckridge and Sons",
+                "Genre": "Country",
+                "Length": "01:16:41",
+                "TicketPrice": 10.0,
+                "PremiumTicketPrice": 12.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f86883d1-977f-4c18-a593-27883d9f78e9",
+              "OccupiedSeats": 119,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-12-01T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "6f1ba193-759f-4da3-aea2-cea2d795dd0c",
+                "Name": "Jaskolski, Borer and Mann",
+                "Genre": "Latin",
+                "Length": "02:17:38",
+                "TicketPrice": 33.2,
+                "PremiumTicketPrice": 41.5,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "c783685b-b903-401c-8520-d772cd09877d",
+      "Date": "2022-09-23T00:00:00+02:00",
+      "IsOpen": true,
+      "IsExtraPaid": false,
+      "CinemaHalls": [
+        {
+          "Id": "f1e63e83-a687-4b79-9517-0383340b954e",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "b19ee14c-f497-4020-831a-209df8eadf02",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "c1832137-09a0-45b1-aac3-af9f4c05f8ec",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "133275e2-5793-41a3-8cdd-d155a718359e",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "713ba6ae-603a-4f40-8dcc-32b9b19917f2",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a6e9c019-c7bd-4960-90f0-e201911778a1",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "33adc9b2-25be-4d4c-83eb-dbc0deaa30bb",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0f10813e-a673-4c3b-9958-e842aa2990c3",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "15d2abf7-69d9-4de2-ae25-258e89a06f63",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "55c0e090-8334-425e-8fa6-8dd51dd6fe66",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "647aaad6-0818-49d4-af25-ccaa8b06c40f",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "4310bb6c-5407-4330-bf87-e354956bb984",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "d9ff0b70-44f5-4da2-a4de-e3580b65c9fa",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "7d5c68c0-ec44-4996-b2df-03e337246943",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "51d6b608-85e6-4248-9673-8c56ee07876e",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8ca4d8b8-2571-41db-9618-1ed3e038c128",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "df45e0cd-aebf-4090-843c-a0045ed05178",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "75b358b4-ca2e-4ab9-8f93-8820383eb12e",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "c697c656-a630-4ef2-aab5-1dd275770d1a",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "4d46e9e9-a9f0-4406-9e58-94e55ddcd7e1",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a99442f0-7c94-4085-aab4-1f2614fc0871",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "e256b3f7-13c7-46bd-8a6e-184d7721c4e9",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "a59296af-b166-40c4-bd5c-049122b269f5",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "fc930e03-845b-4739-bae6-b820f7c04e28",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "c1f232d4-6f7b-4c87-a0f4-150341933fb4",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "35ae7a22-9749-4f6f-b46a-ecc5aa00faf3",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "aea6de25-6cc1-44f6-881a-ab4b387a94e4",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "c1a5a9f0-c1cd-44db-9375-0efbe83b7ceb",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "41da87ff-8415-4d1d-bcf8-0c405997e8b1",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "272a8155-a696-4db4-bd62-18761dadc72e",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "c2168da8-12e3-4e37-b505-299d6044018c",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2ce2b6b6-2481-4a31-a9bb-d85b89d6369c",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "932e7b75-678d-417d-9acc-3df71128a148",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "9c464529-2fe3-448b-bff7-eb76d7795613",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "9dc63f38-30ed-4bf0-ac44-cc9ac1ff711e",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "9a4e8e6c-34bf-413f-b251-916af6da7179",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ffc3c61d-c7ab-4c10-b1d3-fd4e7efea8e6",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6879836d-326b-445a-b120-ee3cd9126ef6",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9016a109-2517-42f3-b439-6052559ef6aa",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "9064e6df-0e06-43a4-a757-512a3862b1ec",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "05a1df0b-0346-4bf8-a845-399bfd20ef03",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "831510c7-7f73-4548-9391-326a0cd1e750",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8cbfdd14-52d7-4e28-a1e6-77c12eb920ce",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "396ccc01-2e38-4944-9a8b-928b412099e3",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "559d43f0-6de5-43b8-8d36-be8d7d6887fb",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "37ba8246-f332-43f9-86e3-2a0ff356bb41",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6af5085e-d09f-4039-9856-17314e3bd026",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "54360030-731b-41d6-9f05-5b0dd4ae320d",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "255e63a0-c464-4a90-89d2-365a7b80b9df",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d873628e-aab8-4ef9-974b-5e8f1f735d2a",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "acbdcedc-8666-4cae-a1b6-a5514d131f12",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a54b1fdf-90fa-4c7b-b556-575e37c8572f",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6631531d-066e-48e4-b93e-cb53412e8620",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e12a40b4-c5ae-4dbc-87da-e851809d19a4",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "28ae9296-d217-4b34-8b71-a80619679131",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "930425c1-db33-4f96-bd70-d072287ee50b",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "1645e95c-0843-4370-bc06-7773a5d3aeb4",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "d461fb3e-479a-448a-969b-7b2803c86f06",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d3a5fd65-8122-4b3a-90a7-5d1f155ca95a",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "4b906e05-60e0-4a48-89b4-e27bd8d8d848",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7ba924fd-cc45-4008-9d00-ff8ca4d732b2",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "f3ce4716-768f-4541-9887-e5d40c91f079",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ed14d6d2-d61e-49c8-ad8c-da36483e9e42",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "16fd9550-1fa9-4d2d-9fcb-f14c5389a808",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "6f634535-166c-4323-ace7-8295c1971abb",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cdcc29e2-f557-4a17-a927-505044de1635",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "ef4d239f-3956-42d7-a5c6-d046d82ce883",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "66ca5bff-6433-4f5d-a3b1-2db6f5e33225",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "88c7b34c-d40f-4d10-9bde-ed1ac3d52e43",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8602fecf-623b-48df-919e-4da73674b83f",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "3db7eba6-cf7a-4cea-bc2a-4687ec94de66",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "eb5ef026-ffe3-4d9e-b57e-2f1f96f5374f",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cb3f6257-4f0e-4065-b935-c28883b784bd",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "3c1d34ef-a136-4a50-99f4-de43f9a6b9ad",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "3c0facc1-df06-4bb2-bc60-9e47325191e8",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d5a035bd-5b2f-4afb-9e0f-c88d5e9f2ec5",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "baf6aad6-a301-4a68-8ab2-5dc8c1749ad9",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "1e3d91b6-b031-4b83-9128-b01962f3d67c",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "5209d9bf-399b-4b2b-b49a-3dfee8b2b915",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "3733f0a6-7a40-420f-b5a5-5dc017c60d3b",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "684724e1-7cd0-4919-8a16-91942a2265f2",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "2dd88b46-b4c6-4750-b301-16dd81f174fe",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9a44c15a-c5ca-4ac2-9139-2fc3a8f322ce",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "73fb1b00-7770-4e29-a54a-55e26b9c79c2",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7d097b09-6b00-4712-a9fd-918ec922c11d",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "a64873a9-5191-4210-87a5-fce560dd8729",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "cd0e69d3-1f78-4f95-b7fa-e3381c97010f",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8c3b326d-6b05-48f0-940a-5976969d824d",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "930d16b8-d8d3-43f1-9d3e-c111e8e407ba",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "4de51fb8-a374-42be-af6f-fa0086ea0ddd",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "694f6e0b-d7ca-4540-8bdb-c5b6cd8e6538",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b22ff813-4922-43d4-a266-5f42160c39cf",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "d442cf79-f798-4ecf-9ceb-fd20432d99b2",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "78add0d7-22f2-4d7d-aa00-75f067d4cc97",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "549d5b20-e3b7-4266-b0f2-83a0cc2c7b3a",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ed2f72ae-b834-41c2-a0c6-e2ea9eefc03e",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "0c28b2c6-105d-4219-a585-ec426b2ded96",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "107213df-6c38-418c-b858-7520dcdde3ba",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "83cbc3ba-fdf1-4e76-9037-bfb20b2e6cad",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "d3a0c13a-c583-4bf6-8a41-e39832746925",
+          "Name": "Ergonomic Metal Ball",
+          "Seats": 90,
+          "PremiumSeats": 7,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "4fee30d7-d21c-4ba8-bec4-f7dbff7610c8",
+              "OccupiedSeats": 8,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cd3a8376-24fb-4728-b241-541110998844",
+                "Name": "O'Hara and Sons",
+                "Genre": "Pop",
+                "Length": "01:00:07",
+                "TicketPrice": 52.5,
+                "PremiumTicketPrice": 65.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e409d316-57a6-484c-b15d-0a375a0d550c",
+              "OccupiedSeats": 55,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-09-23T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "c100d0bc-e099-4b39-8417-74043c8eaf64",
+                "Name": "West - Wunsch",
+                "Genre": "Country",
+                "Length": "02:01:04",
+                "TicketPrice": 75.7,
+                "PremiumTicketPrice": 94.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9158f105-b079-45f2-a0d8-6a8169a08c68",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 2,
+              "StartDateTime": "2022-09-23T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8d80bb9b-3081-435d-b97d-9562e9324604",
+                "Name": "Fisher LLC",
+                "Genre": "Hip Hop",
+                "Length": "01:05:21",
+                "TicketPrice": 19.9,
+                "PremiumTicketPrice": 24.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "256c32ec-7a95-432b-bf55-9eb2f9636834",
+              "OccupiedSeats": 59,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2022-09-23T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "02af3aed-cf7b-4ca3-b908-f4aeb31c33b4",
+                "Name": "Lesch - Hoeger",
+                "Genre": "Stage And Screen",
+                "Length": "02:06:18",
+                "TicketPrice": 43.1,
+                "PremiumTicketPrice": 53.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "6067f39a-e72a-4411-8fbe-31f67399dff9",
+              "OccupiedSeats": 16,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2022-09-23T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "f21bebca-6f03-481c-8ee8-8a51a0d29518",
+                "Name": "Shanahan Inc",
+                "Genre": "Rock",
+                "Length": "01:10:35",
+                "TicketPrice": 66.2,
+                "PremiumTicketPrice": 82.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "7966219b-a67d-4868-bed2-e114558d0c00",
+      "Date": "2022-11-13T00:00:00+01:00",
+      "IsOpen": true,
+      "IsExtraPaid": true,
+      "CinemaHalls": [
+        {
+          "Id": "4536a129-44a0-4cdd-bba7-1bc620b321e7",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "5756b8a0-43d0-4ce3-acfe-97ae90951468",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "5c8b8bd1-3ae6-411f-b97c-a0db757fdad8",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "bc7233e9-2351-4840-8284-d93ebb38e948",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "912b304f-5bfa-4b61-ba75-69c38812629d",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "cf53c887-b089-4452-b844-e0c1926882d7",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "ab00c59a-9b61-4f04-8b3e-87841172e40f",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9c1c5b78-ff7d-4a47-af18-14ff8487e05d",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "42bd2337-1580-4b41-94b0-f1b5fa52c8ff",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e07cab5a-283a-4a70-9c72-fb5e99a92805",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "6d31657a-d463-48d5-9427-d7061319297f",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "ebb8617a-b730-4333-8722-2c9bcb7be5dd",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "554bb4ba-7458-4eba-99a4-86ce31f7abe7",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7bb6e34f-07c6-4d30-a078-fb6f87fec4e8",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ebe58df8-8b83-4904-85cd-963575fe4858",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "273a0243-8876-42c5-9742-a62964eb10ae",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5f83c8ea-1722-4eed-8dd0-bf56746b144c",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "1ff6c204-85c3-4bb9-a9e1-6886978bff66",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "298a2a1b-eed1-4dde-b6a3-f744f3792ac1",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "57edecc3-6cd2-4eb9-a615-edce8f43dfd4",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "368f30ca-2556-4013-971b-452bd4625b25",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e3b856ea-045a-4c8f-b0c9-3c435920a779",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "4218b772-b54d-41c1-8731-5b01b2679493",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "93e00b99-580f-46c6-b4b6-d20e09157b4e",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "fa35d37e-9124-4bc1-bcc6-ba8eeb6a0d72",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d157c266-35d4-45f3-a7ef-1855efd6ad6d",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3a79c7b4-9ec9-4ed8-8b9a-99e73f493cbf",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5c8d2217-4657-4a4b-8806-e4a6ec9f4663",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "b08c7986-69fb-47b6-a2ad-98ed28c0f2e9",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2c7c041f-c156-4e63-924e-fe7d03ce3cc4",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "4dbe0005-6bce-4bff-966f-db1d3dfb5dd8",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "1e67b1cf-bfab-4b75-bbbe-519d975dea3e",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "f035ebdf-3f0b-4c96-b18e-4108dff3c160",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "f06a95a5-a7c0-4c7e-a8b1-8650d57e73e1",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "185702b0-ac7d-4033-ab67-cf2e033f0e30",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2699b6ee-441f-45ed-9bb9-4df3a3040e44",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "12acf2e7-9a3b-4368-a154-f39df7a84247",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c0a304ca-1d9c-4f72-9114-0cb99d5248e4",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e866fb5b-4c80-425f-8c9d-da65b7e1f529",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "9f813885-67cb-4866-beb6-fdafd4c9319e",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7520d34f-18da-4209-a6aa-02d3fa0c1fbd",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c1316d35-3045-46f8-8dc4-b0f6c98a03f8",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ecf6d84c-56e4-4768-9ed4-c86bf7998244",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c4cb1cd2-f401-40ac-aa0a-34bb95e69174",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "c5f63722-1cf3-40bd-9ae0-f53a11afdbae",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "0e85da65-1a2f-4ba8-85a3-f1dc25855c1f",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7bfb923a-b55a-4782-8c8f-5c91f36817ce",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ee81ed8e-603c-4d63-a332-d029ac42367d",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e6f8387a-f777-4ae7-b6e5-676cc4c560e7",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7f31816d-642a-48fc-96ea-acf8f993740a",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "b505fa89-8b3b-42ce-81ea-af88cc5f5907",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5122a071-01b8-472c-8c19-1aa7c4ee3562",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "d72aae64-2cf8-4a56-b8a9-8db433719081",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "02d11458-b1fd-4d33-a760-805e4e0a4edb",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "5f15db90-cc79-4b0c-9adb-d2a16b1e0437",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "6c3e8654-3c16-4c81-a431-401465c031fa",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "bf70d4db-e070-4f51-8779-f5f318d4b569",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "40eebc3a-c81e-4d83-8d21-85c879608105",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "48f81242-7f19-4522-b255-954d3eddd521",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "370943af-8e7e-4e0f-b887-c4e013774c67",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a319fefd-7ea7-4335-bef6-2aac719e23ad",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "27909184-aa02-423e-9050-38ff2595da70",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "dbf4f260-e5c5-4876-bba3-e766bace7418",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "37f17991-4f74-42f3-b79e-c0850689e5bd",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "496f3721-475d-40d9-ab80-6b4973a41cae",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7468e42b-f88e-406d-be03-10874a174e68",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "784e4243-9dc0-4fa5-83aa-e9667be8a0b4",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "0f023d40-c17b-4084-be33-7f512a10d394",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "9b5e60b6-7774-427e-8b1a-05aea17e562e",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "70164a46-cd47-4261-915f-f8499499a15b",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "ec965ed8-1adc-4613-9e01-a47c4f73bf97",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "04397492-d6d0-4a87-83db-ae423b805f58",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "f2a230c3-74ae-48a9-b4bc-789bc3237125",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5f204d96-3f48-49a5-b265-e6d1c72f45f2",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "e015d1e4-3623-407d-94db-0e884b03e719",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "86613493-a9e9-4c4f-beed-a83e096b8183",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "bb0cea28-2b3b-40b5-9940-b16dff1c0c9e",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "673665ff-0d1e-463e-a0ed-ff2abb82c0df",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "2d6ce91c-fbb4-4ddb-b198-805b52630a17",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "795a7f01-8f82-4cdd-aaf9-9300074956f4",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7f44585d-8f1a-44d9-88ca-95d1eacf59ea",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "14b7e81f-24f4-495a-b1c5-219e78289f5d",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "aed26adc-7265-4fc3-8d0d-490a37dea8b2",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "0c978909-c8f3-4524-afeb-a5eb068d44aa",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8182ce50-2468-49f7-a1f8-683d4c0015ac",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "8d4aa9fe-9b80-4f94-8f6e-2c63971f6e18",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e9bf75de-67ef-4a53-a233-dfdbe3b5ef18",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "cc8880be-9a91-4120-bf3a-9b8b9be7ef20",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "4d2d4578-a21b-4472-a949-61a0ea89eae5",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "eacb6170-cfd4-44e2-b082-e70829564c33",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "f75a55f7-e684-43f7-ba2c-4cc96913da54",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "49a5c59a-faca-4736-90f9-2feb4d8b17f0",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "da5f3024-e063-4b27-82c3-482412706460",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "458ccf96-bce2-4dfc-a58f-b6acf8ae307a",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "eeb23153-27a2-4dc8-b4fc-1bd73bcef922",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "684ecf43-c7f7-43c8-92f9-36564f91ae3b",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "487bc103-3997-4d76-9f2a-11938c902cc3",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2cb20218-fa7d-4bce-941a-991899b33653",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "84f65b5d-3fbe-4d42-8950-664993b79557",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "8fb83edf-e86d-4a05-b7d1-96855e003914",
+          "Name": "Sleek Steel Ball",
+          "Seats": 141,
+          "PremiumSeats": 1,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "382d9317-c0d4-4672-b9ea-6a02e0de03a7",
+              "OccupiedSeats": 72,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "d442c018-6e63-43ac-b49c-8f51a4882815",
+                "Name": "Bernier - Glover",
+                "Genre": "Hip Hop",
+                "Length": "01:49:44",
+                "TicketPrice": 6.6,
+                "PremiumTicketPrice": 8.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d85a3308-479f-4047-a9d1-72fa0f1eed5c",
+              "OccupiedSeats": 5,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "9e3b2f71-436a-4657-a8ff-037be622a41c",
+                "Name": "Hickle Group",
+                "Genre": "Stage And Screen",
+                "Length": "00:54:01",
+                "TicketPrice": 29.8,
+                "PremiumTicketPrice": 37.25,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8e91c4ca-e01a-4844-8d8b-6c88de22768d",
+              "OccupiedSeats": 78,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "89906749-3717-4ffd-a853-e72d7d1e9add",
+                "Name": "Okuneva - Orn",
+                "Genre": "Rock",
+                "Length": "01:54:58",
+                "TicketPrice": 52.9,
+                "PremiumTicketPrice": 66.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "21ad6a63-c5a4-4c19-b933-a0473867681f",
+              "OccupiedSeats": 12,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "89dd3374-ac08-4246-af10-dc9e74e049a8",
+                "Name": "Wilderman and Sons",
+                "Genre": "Folk",
+                "Length": "00:59:15",
+                "TicketPrice": 76.1,
+                "PremiumTicketPrice": 95.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9c70e16a-a210-4a98-86a0-87d51aa48f21",
+              "OccupiedSeats": 85,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-11-13T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "38e875a0-94d2-416b-8b79-564b1c8d39fe",
+                "Name": "Frami - Bergstrom",
+                "Genre": "Funk",
+                "Length": "02:00:12",
+                "TicketPrice": 20.3,
+                "PremiumTicketPrice": 25.375,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "5e2b7be3-c72d-482e-b9e1-946c22964808",
+      "Date": "2023-01-03T00:00:00+01:00",
+      "IsOpen": true,
+      "IsExtraPaid": true,
+      "CinemaHalls": [
+        {
+          "Id": "e059ab33-a256-49ac-be7a-6af6ea381518",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "6a51bd28-2e70-4aa6-8413-213f73c2a963",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2075629d-3cc2-4e51-8876-fade2a6abb6c",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0ee92aa3-05d6-4fbc-8bb0-2386e57ee10d",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "9c680bd7-e517-4c0d-bad1-190d76f16798",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d4b9a9bb-9119-4169-90df-b0c66d4130f1",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a5a4deda-fef2-4993-821b-ed886aa8fe46",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "95898549-eb5b-4871-945c-ee7e4ded4fbf",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "24bc00f6-5c52-462f-ad5f-c5f28ec24e9f",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "967eebef-accb-4c73-bf0a-1c18748534f0",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "6a3d35b3-73c4-4966-baf1-d4d41159b93e",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "d28475f1-f597-4a1b-a602-d6e70c7c4136",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "01a6afde-4ba6-41b6-b695-5008da5d56f1",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "aa005d61-c02e-4269-95df-26b2ed9bfeef",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f788d77d-fbba-41dc-82b8-f3fabb939de6",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "27d9f427-19fc-4591-8ed0-0945c154e41a",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "196df651-3fe4-42d0-a7bf-1bd2b3d9fd5e",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "80a1737f-9019-49f4-941d-049ddc32f113",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "bac94c8e-7662-4ca9-81ed-f970514357aa",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3c624871-8e27-4f87-a5dc-0c7968df524e",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0ecd6b7c-e5a4-41b5-8077-33097cb4514a",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7729adb8-b8d8-4d41-8d24-cb1f8f96269b",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "2d565eda-ff70-4865-9ff1-2153f3429fac",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "0f4f1b22-a03b-40b0-b12a-c4e969c71344",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "53c1a9c1-c275-4f29-b915-d0f03a7dc079",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b27c2cdd-1f12-41cd-9797-308b83274252",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "20628d6e-5dcd-4e20-9afa-d066c7fdf08d",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b4a5fbf6-8974-4955-b944-4758d1e95038",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "60e9299e-1e4f-45f2-96b9-0b9bd810eed5",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "850c73d1-5b0b-4905-b9c1-0a61ae66b690",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "63e93a70-d39d-46ad-a143-dce14ecc0164",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "98743c6f-b926-4520-bd00-f27f4e0fa80a",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "4d1fce8c-b2c9-48ae-b1e8-baf3f723cf42",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "1f66f063-2007-4efe-984c-1a236b6cc8ee",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "233dea11-62a4-4dbb-9a2a-dcf67cfee5e0",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "b4109e50-721a-41e0-82a0-c508012d3a0f",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2c468ba4-8cb9-4d5c-8c13-fe909e34b99e",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "b69e4e11-371d-463d-831c-1b390d5fbd0c",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "01077f09-2ace-4078-838f-b59cd350cf0a",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "83cf25bb-ef6a-469a-a85e-0dfb3cfaaa7b",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "255dfb57-17b8-42d3-82b7-26acdecef82f",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "fe7d31df-b01b-42be-b3b9-61bf2146b0db",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2b526133-da3f-4040-9727-dfd07868f30a",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "01fb5edb-bd76-4717-8f35-e0dc196657b6",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "c198ab84-48f2-4920-8439-2fc44c9c9511",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "38c3025c-6871-4705-9f6a-d55296b8665c",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "ff7160c9-6262-4b97-8eae-44b03cf3da3d",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "fd25be8f-d3ee-4800-9035-204ac20dbff3",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "331484e3-ec93-447f-a129-1e4bdf085cb6",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "906cc23b-ee43-45af-87f6-5fe0a409f223",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "04c1e974-d978-492a-b0bb-a145abdd0576",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "df5b1f4b-8b96-44d6-a972-f424efec963c",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "0e7f8006-c7b8-49e6-89cd-a911da17b150",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f9349d8a-886a-44a0-a793-4d4a6d526865",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "7a67dfd4-3d80-4620-a312-d8a343089272",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "1081b297-a6fd-4d7f-ab87-2a5a78ebf8ef",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "5a0bd1aa-1c6b-44bc-80a5-45b2e11d4fbe",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "94b1b44e-837e-40a0-9a88-52938c22a270",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0909bdb2-a949-4362-8287-046c4a2d502d",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a92ea9f0-8789-4cf3-81f2-cc410bf7a237",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2baad8d3-f68e-4bd8-8915-e53ead55b593",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a37cec9e-712b-4d52-ae7d-754114db0c89",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "51575965-76ed-4b7f-bf2d-17a5b60c7cc3",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a0cb24e6-2290-4a6f-b2e9-62bd76620eeb",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "20fc6f71-32c9-4fcd-9ec0-bdffc74292e0",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "8f62272f-8d3a-41ed-885e-665dfcf70cc2",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "077d2928-7321-4f79-8346-198ef65cafe0",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "3b963c1d-8cbb-4661-ada0-63b3d75878a5",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "390e9f10-65cc-4a35-8bbc-524416da80b5",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d69353bb-4c75-432c-96c8-9db1966fe2c8",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "54dc938d-f2eb-43e0-9f18-d9e84344f1fa",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2d9e47d7-e775-4ed0-8971-886063a7a232",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "c76ff5b2-b2c8-47f3-9873-b581db8af590",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2c87c2b2-ebd7-48a7-9ed1-97995fdf2419",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "fb80b521-65e3-46e8-8a16-5546f7a0c1e7",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "345cf6d4-1a2c-49ab-994b-0c9f036869b0",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3a73d421-3396-4a51-88e4-bbf7b79709d7",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "64d37c8f-7c10-4de9-8be5-23af7fdbef1f",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "8290f917-9ba8-41e8-9156-8c5b87886e3e",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "12fc6e30-7b6c-4556-8302-34e66a43cf9b",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "87550091-1a63-4b56-a3a7-4094f4ef8877",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "ed98a57c-7230-4c8c-b8a1-29208212fa6b",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "1013b607-cd4a-41bf-a0d0-7fd8dc9b5d54",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "ff022d93-e279-48bb-a0bc-a34eab8ac9d8",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "44155191-802a-4ead-a7d1-0bbca1f2964d",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "4760e8c2-07f5-4bb2-8425-e88ecb4b0a11",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8cdf7302-57b0-436b-83cb-696926de3d70",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "3fd19b1d-4534-4a2c-b94b-74cc77405ee3",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "741f391b-a940-4987-bcdc-0a0caa0fab6c",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "3a902cdf-c56b-4409-9f27-c9dad4777bcc",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "105c41c9-9f29-4ce2-98ba-d407b9b2bc4a",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "274fd4de-93e8-4df7-878a-309887882aac",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "2870f4a9-8f54-474a-bc7c-984310a5b8c1",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "d9758ba2-84fb-491b-a788-e42db93fce37",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "24522813-5f36-4d46-a0f8-1da4b520fa8d",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "45ee8738-97fa-4ca9-8c50-ac48e0475d2b",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "877f2a40-35de-4136-9e68-6038fa26d9c8",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5b4cce23-c7af-4e21-935d-43a9ca76c6d7",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "21d1a757-7848-4c38-bd06-9fe430fae62d",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "af89db2c-4047-4c4c-b976-b5a2fc387c90",
+          "Name": "Unbranded Granite Ball",
+          "Seats": 192,
+          "PremiumSeats": 11,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "f6c372f4-c9c0-42ca-b5bb-9c2d7b6d7069",
+              "OccupiedSeats": 180,
+              "OccupiedPremiumSeats": 5,
+              "StartDateTime": "2023-01-03T04:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "268ee89b-9759-4549-aaa4-4de9fc187c4d",
+                "Name": "Kuhn, Gerlach and Batz",
+                "Genre": "Country",
+                "Length": "02:39:22",
+                "TicketPrice": 39.7,
+                "PremiumTicketPrice": 49.625,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "c1901de0-7dc1-4f35-a2e4-1eb311e3fa3d",
+              "OccupiedSeats": 88,
+              "OccupiedPremiumSeats": 8,
+              "StartDateTime": "2023-01-03T08:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "9036ca67-c942-4321-b3cc-c7fcee7030f8",
+                "Name": "Sawayn - Will",
+                "Genre": "Folk",
+                "Length": "01:43:39",
+                "TicketPrice": 62.8,
+                "PremiumTicketPrice": 78.5,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8484e2bd-27bf-4a9a-b037-1fec6624f526",
+              "OccupiedSeats": 188,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2023-01-03T12:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a77d0590-772d-49d0-be2f-1964926d9f16",
+                "Name": "Blick, O'Kon and Konopelski",
+                "Genre": "Folk",
+                "Length": "02:44:36",
+                "TicketPrice": 7.0,
+                "PremiumTicketPrice": 8.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "af171126-dfa9-4cab-860c-2caf47cd8f9a",
+              "OccupiedSeats": 97,
+              "OccupiedPremiumSeats": 4,
+              "StartDateTime": "2023-01-03T16:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "a3383557-e090-45d8-812d-cd74af12a637",
+                "Name": "Hilpert - Hermann",
+                "Genre": "Latin",
+                "Length": "01:48:53",
+                "TicketPrice": 30.2,
+                "PremiumTicketPrice": 37.75,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "74649f6b-8323-4209-a564-457f37ddcba5",
+              "OccupiedSeats": 6,
+              "OccupiedPremiumSeats": 7,
+              "StartDateTime": "2023-01-03T20:00:00+01:00",
+              "MoviePlayed": {
+                "Id": "cd144510-7161-4318-9859-387623f26ffe",
+                "Name": "Ondricka Inc",
+                "Genre": "Non Music",
+                "Length": "00:53:10",
+                "TicketPrice": 53.4,
+                "PremiumTicketPrice": 66.75,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "79fab937-2c9b-40f8-a3f9-605f36dc72de",
+      "Date": "2022-10-26T00:00:00+02:00",
+      "IsOpen": true,
+      "IsExtraPaid": false,
+      "CinemaHalls": [
+        {
+          "Id": "855c2a70-4667-4aa0-b5e8-c46e9fcf6468",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "bbfca20b-ec09-4e5f-bc31-becc8b2ecce9",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "5efb108b-2e54-47b5-a307-bae0fff0dbf5",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ac0c61f8-1f7a-4010-b47d-ea201141295e",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "dfe3278e-7f8f-49ed-9a99-d0c784350942",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "bf93aee1-86d1-4e93-9db3-4f4b2bd7a8fc",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "530ccfa0-e641-4002-bd97-bf2f607c6c64",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5778faaa-aee5-4b80-8572-65eb2625d038",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "50669672-c41b-40b9-9ed5-524da9f6eb97",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2faf7bb3-d267-491f-87fb-bc492ef11b59",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "74e1d31c-5602-49ad-abd8-d69fbe35a2fc",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "77938be9-fa82-4e57-ad24-73f0d5ca0784",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "1b2a9873-187d-4bb3-ad8b-e237dde312f3",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "b3ae36b8-993b-42a0-8b69-2b91672782f7",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a6c72d43-05d6-42a1-8281-60987e2f0107",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6be5d802-2ada-41d9-b3a5-3e0252ad1783",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "19640669-1694-481d-9420-e94e409fbca1",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "14c6e0f0-758e-48e0-89aa-44774794f940",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "33ec6291-2efe-47da-af29-5081031889dc",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cba5de06-7df4-4d3b-ba2e-eed31b0122c7",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "dec6f37a-525d-42e7-9b93-fdcd96a76ad6",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "2a280942-eae3-47ac-ac02-337db5f096d3",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "bc4c2da9-94b3-4caa-b2c9-7e3b3539046f",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "47ec4930-9c0f-4707-a13e-31ee3d371300",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8b768b52-c80b-4106-8da4-50cc4192b4d7",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0c857dce-8322-4f5e-9af5-7cf49b217ae5",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "0c0eac42-7832-4334-b448-d8064db64179",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "dde9f25f-f707-4862-bb96-c8d07a13a349",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "c97e3a62-101e-4eaf-9f2f-e6d82a0f3de4",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "032eebbc-b7c4-4ab5-954b-ed38fd57032b",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "d6b47f7b-c7ee-4a33-a1d6-0d0f2a6d5224",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ed8c5ab1-2949-41fa-a8be-370b63604260",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "b6b55fe8-44ce-4e03-9e8f-d75889f7d18b",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "f4f1d029-1362-45b0-a5a4-4c7262722259",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "f94f35ce-e28e-45e0-a067-6bb9c22349fa",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8fa2edbc-4b97-41e7-b95b-e96470f97001",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0fa18987-6566-468e-8aec-70e38322aa15",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cc22826f-cd77-4a83-81e2-4270c551cc6b",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f71e7a92-69cc-40c3-bf9c-e0a3d5e45bae",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "e1ba01da-b41e-40b6-97f1-53c8e2c37c17",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "8f7b1be5-4b3e-499b-9ef0-52ec993480c6",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "db096b1f-a322-40bd-bdab-2326cc691366",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "54555cc2-3ed2-4e00-9fa0-3049a5cea48b",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "964e1704-0b5b-4e97-af2d-b02f733925d9",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "3133dfd4-881e-4757-bc86-a808d85cd347",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "df496b53-473a-42d0-8a84-6aa2da3d5964",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "f483954d-66e1-47d0-9d6c-fbb7f122c857",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7837ad2c-e432-4c89-81b5-997d1d8ef459",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "119064ae-e4cd-4995-b345-75fab447a1f3",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ac7ad31e-7e90-4506-868b-cc63e236d672",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "33507284-dcb5-40d7-a465-4eb205be89c9",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "3cb5c815-9c17-416d-ace2-a9a193d45ffc",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "d197b956-b72a-4229-acd6-924f55ea73e1",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "4a224e7a-c173-4f85-bbae-458a32dcb315",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "1ce2412f-b60a-46cd-b7e5-62f8fef294e4",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "aaa22d43-6332-4d77-a51f-ffb3d03e1905",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "49d5760f-aa7e-4a1f-abd1-ff43d5598a1d",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "e9f30f77-6e87-409d-9b83-9c354cb3781f",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "2c23624a-b0e9-4c54-ae79-1a24cec96992",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "9bee98f7-df2f-41f7-9fb1-eae710efe532",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5fa88c02-6359-4a61-b8c2-235619cc414a",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "a89d9c06-7e84-4575-89ea-e1d01bd3c99e",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "0a4564f5-cc93-47e5-be41-e5d64d861edf",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "cf4d7ac3-772d-4fc3-ace3-cf4513c6c05e",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5d1c4be8-97d2-4abe-96f2-548c69537fa9",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "a4c24e74-87d9-41f8-a385-a6c82c43511e",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "bd503916-c287-43b8-913f-6b8444d95ab5",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "968ad69a-93f6-4576-8ec1-1419b00653ba",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6523d61f-c343-4d6d-8cca-5a39524a60ec",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f0be2750-6e58-4eb5-a60c-61bd1f3bf720",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "0305cfd5-fb6c-4054-afbf-43ad329b86a9",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "f8e2505a-66ab-4f87-a8e7-2e17072e4084",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "5f359f88-c3f8-46be-a16f-d92daa44cb73",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "b1bb1b85-e2d7-4c6a-bacc-60ee77f4045d",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "8ee0617c-66a2-412e-b84f-a40ba664ab83",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9533b933-288c-4628-93ba-fc433be5fa0d",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "38cca352-19f4-4504-9228-246e780fb155",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "bdc34b16-d519-4bb6-8b82-3f3a0a9273dc",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "1fcfb749-d270-4414-abed-ccd3d2f79411",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "bfc8abb6-cf56-4c00-9528-f51eded9722c",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "eafc8726-88ed-4b29-a78f-e4755f47998d",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "7e70c79b-22fc-4770-b7e0-8c37f2ee6db3",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "e9bb933d-748e-437e-a86d-3f23c07d2f97",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "1fc68c3c-3740-46b1-8b71-3ea2c289f865",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9737bdc2-268d-4219-97cb-d8049b697b54",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6d8c0f6a-2643-4106-abe8-3ce69c291046",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "28b0b36d-5dbf-4527-8d8c-1e9cb72db252",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "83392d4f-1119-4cf7-af74-f55758c75833",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "f728720c-fba1-4b54-9f3a-8411f2b21381",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "f709b556-216f-458e-abab-8b741135f335",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "0c2ccd6f-0279-43e2-a6b2-912d39753403",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "933fd0fc-da72-4198-b408-0778be0d0f29",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6baee0c7-79b3-40d2-9773-48e3c3d98b95",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "ea9c5ab3-7e62-4cb6-8dda-b55e29a9b1c2",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "ab0aaa4a-b1b5-4b27-b8a4-7fbf80b7a4fb",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "9a409380-e74f-45fe-a923-0f61731533ac",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "f109d0d9-7df7-4472-a113-359e9f6e4ab4",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "1f930b70-c946-48b2-9e00-54ac0d9951bd",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "5c548679-cf1d-4777-9be5-40f197b436ea",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        },
+        {
+          "Id": "8d7b96b7-f30c-48b3-9a31-22b0f5301f9f",
+          "Name": "Fantastic Fresh Bike",
+          "Seats": 123,
+          "PremiumSeats": 13,
+          "IsOpen": true,
+          "MovieSessions": [
+            {
+              "Id": "f44ebcbf-97ef-4f74-b83a-144906afebd5",
+              "OccupiedSeats": 45,
+              "OccupiedPremiumSeats": 11,
+              "StartDateTime": "2022-10-26T04:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "01685de5-475b-49da-b291-562ce3226216",
+                "Name": "Upton - Franecki",
+                "Genre": "Funk",
+                "Length": "01:32:19",
+                "TicketPrice": 72.7,
+                "PremiumTicketPrice": 90.875,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "5cd1f66a-ec4c-45f1-bb2f-baf869fddcce",
+              "OccupiedSeats": 108,
+              "OccupiedPremiumSeats": 3,
+              "StartDateTime": "2022-10-26T08:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "06970e60-cb82-4df1-aa8a-b4bce42918f7",
+                "Name": "Douglas, Welch and Predovic",
+                "Genre": "World",
+                "Length": "02:33:16",
+                "TicketPrice": 16.9,
+                "PremiumTicketPrice": 21.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "7a80f3c5-6002-48da-b66b-25657f5910ce",
+              "OccupiedSeats": 50,
+              "OccupiedPremiumSeats": 6,
+              "StartDateTime": "2022-10-26T12:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "6817fcf4-17ae-4404-89e7-effd55984170",
+                "Name": "Kunze - Nolan",
+                "Genre": "Non Music",
+                "Length": "01:37:33",
+                "TicketPrice": 40.1,
+                "PremiumTicketPrice": 50.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "78c1bd72-7770-48a6-9625-beadef9f7b5d",
+              "OccupiedSeats": 114,
+              "OccupiedPremiumSeats": 10,
+              "StartDateTime": "2022-10-26T16:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "041ebd20-10b8-48f4-9466-b2eb9167016d",
+                "Name": "Schamberger, Heathcote and Casper",
+                "Genre": "Electronic",
+                "Length": "02:38:30",
+                "TicketPrice": 63.3,
+                "PremiumTicketPrice": 79.125,
+                "ImageUrl": "url"
+              }
+            },
+            {
+              "Id": "a30462c3-8efe-4bb3-b56c-3fcfe9a7572b",
+              "OccupiedSeats": 56,
+              "OccupiedPremiumSeats": 1,
+              "StartDateTime": "2022-10-26T20:00:00+02:00",
+              "MoviePlayed": {
+                "Id": "95fe70a9-64c3-4a11-97e0-3cefd3e0679b",
+                "Name": "Bode - Bauch",
+                "Genre": "Country",
+                "Length": "01:42:47",
+                "TicketPrice": 7.4,
+                "PremiumTicketPrice": 9.25,
+                "ImageUrl": "url"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
