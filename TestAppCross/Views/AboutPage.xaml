@@ -29,7 +29,6 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
-                <Label Text="Na chuj mi te studia" FontSize="Title"/>
                 <Label Text="Aplikacja komunikująca się z KinoAPI" FontSize="16" Padding="0,0,0,0"/>
                 <Label FontSize="16" Padding="0,24,0,0">
                     <Label.FormattedText>
